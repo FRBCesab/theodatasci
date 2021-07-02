@@ -22,5 +22,6 @@ Imports:
     knitr,
     rcompendium,
     rmarkdown,
+    sessioninfo,
     usethis,
     xaringan
